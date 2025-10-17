@@ -129,6 +129,14 @@ html, body {
   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+.quizwiz {
+    background-color: #dd9328;
+}
+
+.abroad {
+    background-color: #e5dacf;
+}
+
 .superstore-3000 {
     background-color: #cc76aa;
 }
@@ -286,6 +294,14 @@ html, body {
 
 .h-superstore-3000 {
     background-image: url(../img/superstore-3000-bg.jpg);
+}
+
+.h-quizwiz {
+    background-image: url(../img/quizwiz-bg.jpg);
+}
+
+.h-abroad {
+    background-image: url(../img/abroad-bg.jpg);
 }
 
 .game {
